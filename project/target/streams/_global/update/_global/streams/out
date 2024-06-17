@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/F:/UCSC/Year%2002%20_%20semester%2001/2204%20Functional%20Programming/scala/Practical%2002/project/"), "practical-02-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating practical-02-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved practical-02-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of practical-02-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of practical-02-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/F:/UCSC/Year%2002%20_%20semester%2001/2204%20Functional%20Programming/scala/Practical%2002/project/"), "practical-02-build")[0m

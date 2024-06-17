@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(1ddfb152-544e-4045-907d-25407e8df5c9), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating temp-module-bde07663ebf5029c076e7b57097cc1dc9cf60cf3[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved temp-module-bde07663ebf5029c076e7b57097cc1dc9cf60cf3 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating practical-02_2.13[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved practical-02_2.13 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of practical-02_2.13[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of practical-02_2.13[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of temp-module-bde07663ebf5029c076e7b57097cc1dc9cf60cf3[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of temp-module-bde07663ebf5029c076e7b57097cc1dc9cf60cf3[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to F:\UCSC\Year 02 _ semester 01\2204 Functional Programming\scala\Practical 02\target\scala-2.13\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1128 s (18:48), completed Jun 17, 2024, 9:56:17 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
