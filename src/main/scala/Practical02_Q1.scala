@@ -19,7 +19,7 @@ object assignValues {
 
         printf("k + 12 * m = %d\n", exp1)
         printf("m / j = %d\n", exp2)
-        printf("n % j = %d\n", exp3)
+        printf("n %% j = %d\n", exp3)
         printf("m / j * j = %d\n", exp4)
         printf("f + 10 * 5 + g = %.2f\n", exp5)
         printf("++i * n = %d\n", exp6)
