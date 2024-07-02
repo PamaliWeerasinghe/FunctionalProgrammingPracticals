@@ -6,7 +6,7 @@ def checkLength(strings :List[String]):List[String]={
 }
 
 def main(args: Array[String]):Unit={
-    //A List is immutable
+    //A List is mutable
     //A new list is returned after adding or removing existing elements
     
     val strings=List("Germany","Cuba","USA","Canada")
